@@ -27,3 +27,4 @@ function Game () {
 
 var game = new Game();
 var box = new game.box('In a world where mankind has been turned into non-living objects.The only person who can save the world is the Block');
+var box
